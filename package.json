@@ -1,0 +1,18 @@
+{
+  "name": "bottwitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@twitchapis/twitch.js": "1.0.0-beta.14",
+    "easy-twitch-bot": "^4.5.5",
+    "twitch-js": "^2.0.0-beta.42"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
