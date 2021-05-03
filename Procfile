@@ -1,1 +1,1 @@
-web: node index.js
+BotTwitchRun: node index.js
